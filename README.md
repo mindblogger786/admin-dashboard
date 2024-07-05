@@ -46,8 +46,7 @@ This project is a web-based dashboard, designed to help you practice HTML and CS
 **4. Fonts**
 + Use Google Fonts to include Roboto or other preferred fonts.
 ## Installation
-1. Clone the repository:
-    git clone <https://github.com/mindblogger786/admin-dashboard>
+1. Clone the repository
 2. Open index.html in your web browser to view the dashboard.
 ## Resources
 + Tailwind Color Palettes
